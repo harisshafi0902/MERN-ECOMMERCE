@@ -7,9 +7,13 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 In the project directory, you can run:
 
 ### `npm start`
+
 hit frontend directory from terminal: cd frontend 
+
 then npm Install
+
 hit Backend directory from terminal: cd backend 
+
 then npm install
 
 Runs the app in the development mode.\
