@@ -16,6 +16,12 @@ hit Backend directory from terminal: cd backend
 
 then npm install
 
+After installing packages both for frontend and backend, run the following commands:
+
+npm run dev 
+
+for both frontend and backend.
+
 Runs the app in the development mode.\
 Open [ http://localhost:5173/]( http://localhost:5173/) to view it in the browser.
 
